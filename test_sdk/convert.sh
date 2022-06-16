@@ -1,0 +1,1 @@
+swig -c++ -go -intgosize 64 -gccgo -I testsdk.i
